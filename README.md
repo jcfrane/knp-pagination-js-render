@@ -22,3 +22,4 @@ KnpPagination.render(JSON.parse(paginationData), 'someRouteHere', 'paginationCon
 
 Installation
 -------------
+Download the build [Here](https://github.com/jcfrane/knp-pagination-render)
