@@ -17,9 +17,9 @@ In your Javascript:
 // Assign pagination data to a javascript variable.
 var paginationData = JSON.parse('{{ pagination.paginationData | json_encode | raw }}');
 
-KnpPagination.render(JSON.parse(paginationData), 'someRouteHere', 'paginationContainer');
+KnpPagination.render(paginationData, 'someRouteHere', 'paginationContainer');
 ```
 
 Installation
 -------------
-Download the build [Here](https://github.com/jcfrane/knp-pagination-render)
+Download the build [Here](https://github.com/jcfrane/knp-pagination-render/tree/master/lib)
