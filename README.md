@@ -1,7 +1,7 @@
 KNP Pagination Render JS
 =========================
 
-Render KNP Sliding Pagination Component by KNP through JS.
+Render KNP Sliding Pagination Component by KNP using JS.
 
 See: [KNP Components](https://github.com/KnpLabs/knp-components)
 
